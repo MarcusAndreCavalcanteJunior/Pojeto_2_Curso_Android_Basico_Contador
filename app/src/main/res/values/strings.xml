@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="titulo">Toque nos botões de + ou - para somar ou subtrair</string>
+    <string name="btn_soma">Somar</string>
+    <string name="btn_subtrair">Subtrair</string>
+
+</resources>
